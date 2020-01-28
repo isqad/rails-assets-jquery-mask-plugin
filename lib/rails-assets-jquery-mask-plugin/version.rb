@@ -1,3 +1,3 @@
 module RailsAssetsJqueryMaskPlugin
-  VERSION = "1.14.16"
+  VERSION = '1.14.17'.freeze
 end
